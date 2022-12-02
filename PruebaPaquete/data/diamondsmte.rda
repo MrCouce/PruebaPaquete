@@ -1,0 +1,4 @@
+library(ggplot2)
+
+diamonds
+diamondsmte=diamonds[1:1000,]
